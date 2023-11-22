@@ -1,1 +1,26 @@
 eu sou seu pai
+Comandos do git
+
+
+git init
+
+git add "nome do arquivo.txt/jpeg/xlsx"
+
+git add . (adiciona todos os arquivos de uma vez)
+
+git status
+
+git commmit -m "commit incial"
+
+git config --global user.email "perseu.freelancer@gmail.com"
+
+git config --global user.name "Perseu Lima"
+
+git push
+
+git remote add origin
+
+git remote remove origin (caso dê erro)
+
+
+
